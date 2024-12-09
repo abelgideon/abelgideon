@@ -8,8 +8,7 @@ I've been learning to code for about four years. My journey began with Python, w
 
 * 🌍  I'm based in Addis Ababa
 * ✉️  You can contact me at [abelgideontk7@gmail.com](mailto:abelgideontk7@gmail.com)
-* 🧠  I'm learning the React Framework
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on projects
 
 ### Skills
 
