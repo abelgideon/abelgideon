@@ -7,6 +7,7 @@ Full-Stack Web Developer
 I've been learning to code for about four years. My journey began with Python, where I built a strong foundation in programming. I then advanced to object-oriented programming with Java and explored Windows application development using C#. Eventually, I transitioned into web development, mastering HTML, CSS, and JavaScript. Currently, I'm focused on learning the MERN stack—MongoDB, Express.js, React, and Node.js—to build full-stack web applications.
 
 * 🌍  I'm based in Addis Ababa
+* 🧑‍💻  You can find my portfolio [here](https://abelgideon.me)
 * ✉️  You can contact me at [abelgideontk7@gmail.com](mailto:abelgideontk7@gmail.com)
 * 🤝  I'm open to collaborating on projects
 
